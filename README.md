@@ -1,6 +1,7 @@
 # Research Achievements
 
 Selected publications and presentations related to CubeSat systems engineering, spacecraft testing, electrical interface design, mission assurance, and space education.
+Linked in: https://www.linkedin.com/in/yukihisa-otani-bb4123207/
 
 ## 2. Peer-Reviewed Journal Papers
 
